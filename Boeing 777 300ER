@@ -1,0 +1,5 @@
+<aircraft>
+  <model>models/777-300ER/777-300ER.gltf</model>
+  <texture>https://i.imgur.com/N5Z1GiA.png</texture>
+  <cockpit>cockpits/777-300ER/cockpit.xml</cockpit>
+</aircraft>
