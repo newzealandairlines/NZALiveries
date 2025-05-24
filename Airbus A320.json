@@ -1,0 +1,7 @@
+{
+  "A320 - Custom NZA Livery": {
+    "model": "models/A320/A320.gltf",
+    "cockpit": "cockpits/A320/A320.xml",
+    "texture": "https://i.imgur.com/emYUcfO.jpeg"
+  }
+}
