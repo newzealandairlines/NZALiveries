@@ -1,4 +1,7 @@
 {
+  "name": "New Zealand Airline",
+  "color": "#0289F7",
+  "bgcolor": "#000000",
   "airline": {
     "A320 - Custom NZAL Livery": {
       "model": "models/A320/A320.gltf",
